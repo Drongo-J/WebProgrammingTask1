@@ -1,1 +1,1 @@
-https://aykhan.net/tasks/task1/
+https://aykhan.net/tasks/web-programming/task1/
